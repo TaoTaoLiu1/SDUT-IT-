@@ -1,3 +1,4 @@
 //# SDUT-IT-
 //IT项目管理的小组作业
-hello
+hell
+添加支付功能
